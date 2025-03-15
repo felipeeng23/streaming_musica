@@ -117,5 +117,5 @@ Sinta-se à vontade para **abrir issues**, **sugerir melhorias** e **contribuir*
 🔗 LinkedIn: https://www.linkedin.com/in/felipe-souza-de-oliveira/
 
 ---
-🛠️ **Desenvolvido por [Felipe Oliveira]** 🚀
+🛠️ **Desenvolvido por Felipe Oliveira** 🚀
 
