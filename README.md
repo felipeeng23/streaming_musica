@@ -114,7 +114,7 @@ Sinta-se à vontade para **abrir issues**, **sugerir melhorias** e **contribuir*
 ## 📩 Contato
 
 📧 E-mail: felipedoliveira09@hotmail.com
-🔗 LinkedIn: (https://www.linkedin.com/in/felipe-souza-de-oliveira/)
+🔗 LinkedIn: https://www.linkedin.com/in/felipe-souza-de-oliveira/
 
 ---
 🛠️ **Desenvolvido por [Felipe Oliveira]** 🚀
